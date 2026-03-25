@@ -13,8 +13,8 @@ provides=(twitch-drops-miner)
 conflicts=(twitch-drops-miner)
 source_x86_64=("Twitch.Drops.Miner.Linux.AppImage-x86_64.zip::https://github.com/DevilXD/TwitchDropsMiner/releases/download/dev-build/Twitch.Drops.Miner.Linux.AppImage-x86_64.zip")
 source_aarch64=("Twitch.Drops.Miner.Linux.AppImage-aarch64.zip::https://github.com/DevilXD/TwitchDropsMiner/releases/download/dev-build/Twitch.Drops.Miner.Linux.AppImage-aarch64.zip")
-sha256sums_x86_64=('0c1825cc60606ff19ac1025b51dcbd07c58050ab3cea8c32c15dae7bd2549035')
-sha256sums_aarch64=('be92e993c891271ac16c28a12b54d6fd0360b97a8598cad7a8ea8c4df0c680cf')
+sha256sums_x86_64=('asdasdasd')
+sha256sums_aarch64=('asdfasdfasdf')
 
 prepare() {
     cd "$srcdir"
